@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://femmefitness.shop/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://femmefitness.shop/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://femmefitness.shop/collections/all.atom"/>
+  <title>Femme Fitness</title>
+  <updated>2023-11-25T21:46:33+00:00</updated>
+  <author>
+    <name>Femme Fitness</name>
+  </author>
+  <entry>
+    <id>https://femmefitness.shop/products/9026180448557</id>
+    <published>2023-11-25T21:46:33+00:00</published>
+    <updated>2023-11-25T21:46:33+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://femmefitness.shop/products/fluffy-sock-slippers"/>
+    <title>Fluffy Sock Slippers</title>
+    <s:type></s:type>
+    <s:vendor>Femme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0812/2390/9677/products/369390bdbd8a0b09dc30c0f8de3a37a7.jpg?v=1701128588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Femme<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>﻿Discover the perfect blend of comfort and style with our <strong>Floffy Sock Slippers.</strong></p>
+<p>Crafted to provide a snug and warm embrace for your feet this xmas, these slippers are your ideal companion for relaxation and leisure.</p>
+<p>The soft, high-quality materials offer a gentle touch and a luxurious feel.</p>
+<p>With a timeless design, they effortlessly complement your attire and add a touch of sophistication to your indoor look.</p>
+<p>Whether you're unwinding at home or taking a moment to relax, these Sock Slippers will keep your feet pampered and stylish throughout.</p>
+<p>Experience the perfect combination of comfort and fashion with every step you take.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Slippers</s:tag>
+    <s:tag>Sock</s:tag>
+    <s:tag>XMAS</s:tag>
+    <s:variant>
+      <id>https://femmefitness.shop/products/9026180448557</id>
+      <title>Salmon</title>
+      <s:price currency="GBP">19.95</s:price>
+      <s:sku>D92VA1ZSUV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femmefitness.shop/products/9026180448557</id>
+      <title>Pink</title>
+      <s:price currency="GBP">19.95</s:price>
+      <s:sku>3AS704R3S5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femmefitness.shop/products/9026180448557</id>
+      <title>Purple</title>
+      <s:price currency="GBP">19.95</s:price>
+      <s:sku>49MJHY5L3I</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femmefitness.shop/products/9026180448557</id>
+      <title>Brown</title>
+      <s:price currency="GBP">19.95</s:price>
+      <s:sku>NS8HY4SNVR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femmefitness.shop/products/9026180448557</id>
+      <title>Green</title>
+      <s:price currency="GBP">19.95</s:price>
+      <s:sku>8C22GRSXGL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femmefitness.shop/products/9026180448557</id>
+      <title>Blue</title>
+      <s:price currency="GBP">19.95</s:price>
+      <s:sku>WVK803VNK6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femmefitness.shop/products/9026180448557</id>
+      <title>Gray</title>
+      <s:price currency="GBP">19.95</s:price>
+      <s:sku>77CLZZWHQ9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
